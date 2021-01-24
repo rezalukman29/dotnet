@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SortedNames\SortedNames\bin\Debug\SortedNames.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SortedNames\SortedNames\bin\Debug\SortedNames.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SortedNames\SortedNames\obj\x86\Debug\SortedNames.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SortedNames\SortedNames\obj\x86\Debug\SortedNames.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SortedNames\SortedNames\obj\x86\Debug\SortedNames.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SortedNames\SortedNames\obj\x86\Debug\SortedNames.pdb
